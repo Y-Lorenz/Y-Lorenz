@@ -10,14 +10,15 @@
 
 <br/>
 
-### Hi there! 🎈
-**Visitors:** ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Y-Lorenz.Y-Lorenz)
+### Hi there! 🎈 **Visitors:** ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Y-Lorenz.Y-Lorenz)
 
-- 🏫 **Lorenz Yang** - Ph.D. Student at **Fudan University**
-- 🔭 Currently learning **Spatial Statistics**
-- 😄 Pronouns: **Coder, Kind Hearted**
-- 🌟 Looking for help with **Data Structures & Algorithms**
-- 💬 Ask me anything - I'm happy to help!
+### 👨‍🔬 About Me
+
+- 🏫 **Ph.D. Student in Spatial Epidemiology**, Fudan University  
+- 💊 **B.S. & M.S. in Pharmacy**  
+- 🔬 Research interests: **Spatial Epidemiology, Spatial Statistics, and Bayesian Spatiotemporal Modeling**  
+- 🦠 Current research: **Spatiotemporal modeling of infectious diseases**
+- 💬 Feel free to reach out for discussion or collaboration
 
 ### 🔬 Research Interests
 
