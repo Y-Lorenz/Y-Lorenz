@@ -1,7 +1,5 @@
 <div align='left'><h1><strong>Lorenz Yang </strong></h1></div>
 
-![](https://github.com/Y-Lorenz/Y-Lorenz/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/听说你不要命.jpg' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
   <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/三转大肠.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
