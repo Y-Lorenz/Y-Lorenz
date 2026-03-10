@@ -1,9 +1,11 @@
 <div align='left'><h1><strong>Lorenz Yang </strong></h1></div>
 
 <div align="center">
-  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/2333.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
-  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/monkey.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
-  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/244.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/> 
+  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/听说你不要命.jpg' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
+  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/三转大肠.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
+  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/六转大肠.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
+  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/九转大肠.gif' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
+  <img src='https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/main/GIF/活的容易.jpg' width="150px" height="150px" style="margin: 0 10px; border-radius: 10px; object-fit: cover;"/>
 </div>
 
 <br/>
