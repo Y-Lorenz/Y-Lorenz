@@ -35,6 +35,6 @@
 - **Data Science:** Pandas, NumPy, ggplot2
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Y-Lorenz/Y-Lorenz/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
