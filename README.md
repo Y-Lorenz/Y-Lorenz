@@ -34,5 +34,5 @@
 - **GIS:** QGIS, ArcGIS, GDAL
 - **Data Science:** Pandas, NumPy, ggplot2
 
-![](https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Y-Lorenz/Y-Lorenz/output/github-contribution-grid-snake.svg)
 
