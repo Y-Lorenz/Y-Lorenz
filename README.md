@@ -15,7 +15,7 @@
 
 - 🏫 **Lorenz Yang** - Ph.D. Student at **Fudan University**
 - 🔭 Currently learning **Spatial Statistics**
-- 😄 Pronouns: **Coder, Leader, Kind Hearted**
+- 😄 Pronouns: **Coder, Kind Hearted**
 - 🌟 Looking for help with **Data Structures & Algorithms**
 - 💬 Ask me anything - I'm happy to help!
 
