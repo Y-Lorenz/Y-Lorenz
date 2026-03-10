@@ -26,7 +26,8 @@
 - Spatial Statistics
 - Infectious Disease Modeling
 - Machine Learning for Public Health
-- 
+- Clinical Pharmacy
+- Bioinformatics
 ### 🛠 Tech Stack
 
 - **Languages:** R, Python
